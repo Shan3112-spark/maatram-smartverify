@@ -1,0 +1,1238 @@
+[
+  {
+    "case_id": "C001",
+    "marksheet": "sheets/C001.jpg",
+    "photo": "photos/C001.jpg",
+    "entered": {
+      "name": "Arun Raj",
+      "register_no": "2670239",
+      "marks": {
+        "Tamil": 47,
+        "English": 81,
+        "Mathematics": 42,
+        "Physics": 99,
+        "Chemistry": 62,
+        "Computer Science": 39
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 47,
+        "English": 81,
+        "Mathematics": 42,
+        "Physics": 99,
+        "Chemistry": 62,
+        "Computer Science": 39
+      },
+      "sheet_total": 370,
+      "layout": "B",
+      "degradation": "clean",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C002",
+    "marksheet": "sheets/C002.jpg",
+    "photo": "photos/C002.jpg",
+    "entered": {
+      "name": "Vignesh Raj",
+      "register_no": "2672226",
+      "marks": {
+        "Tamil": 89,
+        "English": 42,
+        "Mathematics": 50,
+        "Physics": 63,
+        "Chemistry": 42,
+        "Computer Science": 85
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 89,
+        "English": 42,
+        "Mathematics": 50,
+        "Physics": 63,
+        "Chemistry": 42,
+        "Computer Science": 85
+      },
+      "sheet_total": 371,
+      "layout": "A",
+      "degradation": "moderate",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "blurry",
+      "problems": [
+        "photo:blurry"
+      ]
+    }
+  },
+  {
+    "case_id": "C003",
+    "marksheet": "sheets/C003.jpg",
+    "photo": "photos/C003.jpg",
+    "entered": {
+      "name": "Divya Prakash",
+      "register_no": "2615439",
+      "marks": {
+        "Tamil": 74,
+        "English": 58,
+        "Mathematics": 48,
+        "Physics": 59,
+        "Chemistry": 82,
+        "Computer Science": 47
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 74,
+        "English": 58,
+        "Mathematics": 48,
+        "Physics": 59,
+        "Chemistry": 82,
+        "Computer Science": 47
+      },
+      "sheet_total": 368,
+      "layout": "B",
+      "degradation": "mild",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C004",
+    "marksheet": "sheets/C004.jpg",
+    "photo": "photos/C004.jpg",
+    "entered": {
+      "name": "Dinesh Prakash",
+      "register_no": "2656045",
+      "marks": {
+        "Tamil": 75,
+        "English": 94,
+        "Mathematics": 93,
+        "Physics": 81,
+        "Chemistry": 73,
+        "Computer Science": 66
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 75,
+        "English": 94,
+        "Mathematics": 93,
+        "Physics": 81,
+        "Chemistry": 73,
+        "Computer Science": 66
+      },
+      "sheet_total": 482,
+      "layout": "A",
+      "degradation": "hard",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C005",
+    "marksheet": "sheets/C005.jpg",
+    "photo": "photos/C005.jpg",
+    "entered": {
+      "name": "Harish Prakash",
+      "register_no": "2664895",
+      "marks": {
+        "Tamil": 78,
+        "English": 92,
+        "Mathematics": 71,
+        "Physics": 44,
+        "Chemistry": 50,
+        "Computer Science": 88
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 78,
+        "English": 92,
+        "Mathematics": 71,
+        "Physics": 44,
+        "Chemistry": 50,
+        "Computer Science": 88
+      },
+      "sheet_total": 423,
+      "layout": "C",
+      "degradation": "clean",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C006",
+    "marksheet": "sheets/C006.jpg",
+    "photo": "photos/C006.jpg",
+    "entered": {
+      "name": "Sanjay Kumar",
+      "register_no": "2687584",
+      "marks": {
+        "Tamil": 44,
+        "English": 75,
+        "Mathematics": 78,
+        "Physics": 79,
+        "Chemistry": 98,
+        "Computer Science": 93
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 44,
+        "English": 75,
+        "Mathematics": 78,
+        "Physics": 79,
+        "Chemistry": 98,
+        "Computer Science": 93
+      },
+      "sheet_total": 467,
+      "layout": "B",
+      "degradation": "clean",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C007",
+    "marksheet": "sheets/C007.jpg",
+    "photo": "photos/C007.jpg",
+    "entered": {
+      "name": "Kavya Kumar",
+      "register_no": "2695834",
+      "marks": {
+        "Tamil": 74,
+        "English": 92,
+        "Mathematics": 71,
+        "Physics": 84,
+        "Chemistry": 79,
+        "Computer Science": 37
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 74,
+        "English": 92,
+        "Mathematics": 71,
+        "Physics": 84,
+        "Chemistry": 79,
+        "Computer Science": 37
+      },
+      "sheet_total": 437,
+      "layout": "B",
+      "degradation": "mild",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C008",
+    "marksheet": "sheets/C008.jpg",
+    "photo": "photos/C008.jpg",
+    "entered": {
+      "name": "Meena Murugan",
+      "register_no": "2616952",
+      "marks": {
+        "Tamil": 66,
+        "English": 85,
+        "Mathematics": 85,
+        "Physics": 98,
+        "Chemistry": 45,
+        "Computer Science": 56
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 66,
+        "English": 85,
+        "Mathematics": 85,
+        "Physics": 98,
+        "Chemistry": 45,
+        "Computer Science": 56
+      },
+      "sheet_total": 435,
+      "layout": "A",
+      "degradation": "moderate",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C009",
+    "marksheet": "sheets/C009.jpg",
+    "photo": "photos/C009.jpg",
+    "entered": {
+      "name": "Lakshmi Babu",
+      "register_no": "2647024",
+      "marks": {
+        "Tamil": 83,
+        "English": 64,
+        "Mathematics": 54,
+        "Physics": 45,
+        "Chemistry": 57,
+        "Computer Science": 54
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 83,
+        "English": 64,
+        "Mathematics": 54,
+        "Physics": 45,
+        "Chemistry": 57,
+        "Computer Science": 54
+      },
+      "sheet_total": 357,
+      "layout": "C",
+      "degradation": "moderate",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C010",
+    "marksheet": "sheets/C010.jpg",
+    "photo": "photos/C010.jpg",
+    "entered": {
+      "name": "Lakshmi Murugan",
+      "register_no": "2600536",
+      "marks": {
+        "Tamil": 53,
+        "English": 88,
+        "Mathematics": 82,
+        "Physics": 75,
+        "Chemistry": 51,
+        "Computer Science": 41
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 53,
+        "English": 88,
+        "Mathematics": 82,
+        "Physics": 75,
+        "Chemistry": 51,
+        "Computer Science": 41
+      },
+      "sheet_total": 390,
+      "layout": "A",
+      "degradation": "moderate",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "bad_aspect",
+      "problems": [
+        "photo:bad_aspect"
+      ]
+    }
+  },
+  {
+    "case_id": "C011",
+    "marksheet": "sheets/C011.jpg",
+    "photo": "photos/C011.jpg",
+    "entered": {
+      "name": "Revathi Raj",
+      "register_no": "2663114",
+      "marks": {
+        "Tamil": 86,
+        "English": 42,
+        "Mathematics": 59,
+        "Physics": 43,
+        "Chemistry": 61,
+        "Computer Science": 91
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 86,
+        "English": 42,
+        "Mathematics": 59,
+        "Physics": 43,
+        "Chemistry": 61,
+        "Computer Science": 91
+      },
+      "sheet_total": 382,
+      "layout": "B",
+      "degradation": "mild",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "dark",
+      "problems": [
+        "photo:dark"
+      ]
+    }
+  },
+  {
+    "case_id": "C012",
+    "marksheet": "sheets/C012.jpg",
+    "photo": "photos/C012.jpg",
+    "entered": {
+      "name": "Divya Prakash",
+      "register_no": "2613299",
+      "marks": {
+        "Tamil": 81,
+        "English": 38,
+        "Mathematics": 44,
+        "Physics": 61,
+        "Chemistry": 83,
+        "Computer Science": 57
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 81,
+        "English": 38,
+        "Mathematics": 44,
+        "Physics": 61,
+        "Chemistry": 83,
+        "Computer Science": 54
+      },
+      "sheet_total": 361,
+      "layout": "A",
+      "degradation": "clean",
+      "sheet_scenario": "mark_mismatch",
+      "photo_scenario": "good",
+      "problems": [
+        "mark_mismatch:Computer Science"
+      ]
+    }
+  },
+  {
+    "case_id": "C013",
+    "marksheet": "sheets/C013.jpg",
+    "photo": "photos/C013.jpg",
+    "entered": {
+      "name": "Karthik Lakshmanan",
+      "register_no": "2661078",
+      "marks": {
+        "Tamil": 96,
+        "English": 96,
+        "Mathematics": 74,
+        "Physics": 45,
+        "Chemistry": 53,
+        "Computer Science": 51
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 96,
+        "English": 96,
+        "Mathematics": 74,
+        "Physics": 45,
+        "Chemistry": 53,
+        "Computer Science": 48
+      },
+      "sheet_total": 412,
+      "layout": "A",
+      "degradation": "moderate",
+      "sheet_scenario": "mark_mismatch",
+      "photo_scenario": "low_res",
+      "problems": [
+        "mark_mismatch:Computer Science",
+        "photo:low_res"
+      ]
+    }
+  },
+  {
+    "case_id": "C014",
+    "marksheet": "sheets/C014.jpg",
+    "photo": "photos/C014.jpg",
+    "entered": {
+      "name": "Meena Prakash",
+      "register_no": "2647415",
+      "marks": {
+        "Tamil": 53,
+        "English": 41,
+        "Mathematics": 73,
+        "Physics": 46,
+        "Chemistry": 68,
+        "Computer Science": 81
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 53,
+        "English": 38,
+        "Mathematics": 73,
+        "Physics": 46,
+        "Chemistry": 68,
+        "Computer Science": 81
+      },
+      "sheet_total": 359,
+      "layout": "A",
+      "degradation": "moderate",
+      "sheet_scenario": "mark_mismatch",
+      "photo_scenario": "good",
+      "problems": [
+        "mark_mismatch:English"
+      ]
+    }
+  },
+  {
+    "case_id": "C015",
+    "marksheet": "sheets/C015.jpg",
+    "photo": "photos/C015.bmp",
+    "entered": {
+      "name": "Vignesh Nair",
+      "register_no": "2699394",
+      "marks": {
+        "Tamil": 59,
+        "English": 65,
+        "Mathematics": 79,
+        "Physics": 64,
+        "Chemistry": 60,
+        "Computer Science": 98
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 59,
+        "English": 65,
+        "Mathematics": 86,
+        "Physics": 64,
+        "Chemistry": 60,
+        "Computer Science": 98
+      },
+      "sheet_total": 432,
+      "layout": "C",
+      "degradation": "mild",
+      "sheet_scenario": "mark_mismatch",
+      "photo_scenario": "bad_format",
+      "problems": [
+        "mark_mismatch:Mathematics",
+        "photo:bad_format"
+      ]
+    }
+  },
+  {
+    "case_id": "C016",
+    "marksheet": "sheets/C016.jpg",
+    "photo": "photos/C016.jpg",
+    "entered": {
+      "name": "Gokul Lakshmanan",
+      "register_no": "2694781",
+      "marks": {
+        "Tamil": 79,
+        "English": 81,
+        "Mathematics": 45,
+        "Physics": 60,
+        "Chemistry": 48,
+        "Computer Science": 64
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 79,
+        "English": 81,
+        "Mathematics": 45,
+        "Physics": 63,
+        "Chemistry": 48,
+        "Computer Science": 64
+      },
+      "sheet_total": 380,
+      "layout": "A",
+      "degradation": "mild",
+      "sheet_scenario": "mark_mismatch",
+      "photo_scenario": "bad_aspect",
+      "problems": [
+        "mark_mismatch:Physics",
+        "photo:bad_aspect"
+      ]
+    }
+  },
+  {
+    "case_id": "C017",
+    "marksheet": "sheets/C017.jpg",
+    "photo": "photos/C017.jpg",
+    "entered": {
+      "name": "Gokul Raj",
+      "register_no": "2686584",
+      "marks": {
+        "Tamil": 50,
+        "English": 84,
+        "Mathematics": 60,
+        "Physics": 96,
+        "Chemistry": 57,
+        "Computer Science": 90
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 50,
+        "English": 84,
+        "Mathematics": 60,
+        "Physics": 96,
+        "Chemistry": 57
+      },
+      "sheet_total": 347,
+      "layout": "C",
+      "degradation": "moderate",
+      "sheet_scenario": "missing_subject",
+      "photo_scenario": "good",
+      "problems": [
+        "missing_subject:Computer Science"
+      ]
+    }
+  },
+  {
+    "case_id": "C018",
+    "marksheet": "sheets/C018.jpg",
+    "photo": "photos/C018.jpg",
+    "entered": {
+      "name": "Kavya Devi",
+      "register_no": "2622282",
+      "marks": {
+        "Tamil": 51,
+        "English": 38,
+        "Mathematics": 54,
+        "Physics": 94,
+        "Chemistry": 53,
+        "Computer Science": 95
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 51,
+        "English": 38,
+        "Mathematics": 54,
+        "Physics": 94,
+        "Chemistry": 53
+      },
+      "sheet_total": 290,
+      "layout": "B",
+      "degradation": "moderate",
+      "sheet_scenario": "missing_subject",
+      "photo_scenario": "dark",
+      "problems": [
+        "missing_subject:Computer Science",
+        "photo:dark"
+      ]
+    }
+  },
+  {
+    "case_id": "C019",
+    "marksheet": "sheets/C019.jpg",
+    "photo": "photos/C019.jpg",
+    "entered": {
+      "name": "Karthik Prakash",
+      "register_no": "2698348",
+      "marks": {
+        "Tamil": 52,
+        "English": 90,
+        "Mathematics": 59,
+        "Physics": 62,
+        "Chemistry": 38,
+        "Computer Science": 67
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 52,
+        "English": 90,
+        "Mathematics": 59,
+        "Physics": 62,
+        "Chemistry": 38,
+        "Computer Science": 67
+      },
+      "sheet_total": 368,
+      "layout": "A",
+      "degradation": "clean",
+      "sheet_scenario": "reg_mismatch",
+      "photo_scenario": "good",
+      "problems": [
+        "reg_mismatch"
+      ]
+    }
+  },
+  {
+    "case_id": "C020",
+    "marksheet": "sheets/C020.jpg",
+    "photo": "photos/C020.bmp",
+    "entered": {
+      "name": "Nithya Murugan",
+      "register_no": "2671399",
+      "marks": {
+        "Tamil": 88,
+        "English": 51,
+        "Mathematics": 42,
+        "Physics": 80,
+        "Chemistry": 93,
+        "Computer Science": 88
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 88,
+        "English": 51,
+        "Mathematics": 42,
+        "Physics": 80,
+        "Chemistry": 93,
+        "Computer Science": 88
+      },
+      "sheet_total": 442,
+      "layout": "C",
+      "degradation": "mild",
+      "sheet_scenario": "reg_mismatch",
+      "photo_scenario": "bad_format",
+      "problems": [
+        "reg_mismatch",
+        "photo:bad_format"
+      ]
+    }
+  },
+  {
+    "case_id": "C021",
+    "marksheet": "sheets/C021.jpg",
+    "photo": "photos/C021.bmp",
+    "entered": {
+      "name": "Suresh Nair",
+      "register_no": "2600515",
+      "marks": {
+        "Tamil": 54,
+        "English": 57,
+        "Mathematics": 53,
+        "Physics": 95,
+        "Chemistry": 50,
+        "Computer Science": 42
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 54,
+        "English": 57,
+        "Mathematics": 53,
+        "Physics": 95,
+        "Chemistry": 50,
+        "Computer Science": 42
+      },
+      "sheet_total": 361,
+      "layout": "B",
+      "degradation": "clean",
+      "sheet_scenario": "bad_total",
+      "photo_scenario": "bad_format",
+      "problems": [
+        "bad_total",
+        "photo:bad_format"
+      ]
+    }
+  },
+  {
+    "case_id": "C022",
+    "marksheet": "sheets/C022.jpg",
+    "photo": "photos/C022.bmp",
+    "entered": {
+      "name": "Dinesh Raj",
+      "register_no": "2673439",
+      "marks": {
+        "Tamil": 42,
+        "English": 66,
+        "Mathematics": 59,
+        "Physics": 70,
+        "Chemistry": 40,
+        "Computer Science": 47
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 42,
+        "English": 66,
+        "Mathematics": 59,
+        "Physics": 70,
+        "Chemistry": 40,
+        "Computer Science": 47
+      },
+      "sheet_total": 339,
+      "layout": "C",
+      "degradation": "moderate",
+      "sheet_scenario": "bad_total",
+      "photo_scenario": "bad_format",
+      "problems": [
+        "bad_total",
+        "photo:bad_format"
+      ]
+    }
+  },
+  {
+    "case_id": "C023",
+    "marksheet": "sheets/C023.jpg",
+    "photo": "photos/C023.jpg",
+    "entered": {
+      "name": "Meena Murugan",
+      "register_no": "2659289",
+      "marks": {
+        "Tamil": 96,
+        "English": 99,
+        "Mathematics": 66,
+        "Physics": 68,
+        "Chemistry": 60,
+        "Computer Science": 92
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 96,
+        "English": 99,
+        "Mathematics": 66,
+        "Physics": 68,
+        "Chemistry": 60,
+        "Computer Science": 92
+      },
+      "sheet_total": 481,
+      "layout": "C",
+      "degradation": "mild",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "landscape",
+      "problems": [
+        "photo:landscape"
+      ]
+    }
+  },
+  {
+    "case_id": "C024",
+    "marksheet": "sheets/C024.jpg",
+    "photo": "photos/C024.jpg",
+    "entered": {
+      "name": "Vignesh Babu",
+      "register_no": "2609584",
+      "marks": {
+        "Tamil": 62,
+        "English": 73,
+        "Mathematics": 47,
+        "Physics": 54,
+        "Chemistry": 81,
+        "Computer Science": 53
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 62,
+        "English": 73,
+        "Mathematics": 50,
+        "Physics": 54,
+        "Chemistry": 81,
+        "Computer Science": 53
+      },
+      "sheet_total": 373,
+      "layout": "C",
+      "degradation": "clean",
+      "sheet_scenario": "mark_mismatch",
+      "photo_scenario": "good",
+      "problems": [
+        "mark_mismatch:Mathematics"
+      ]
+    }
+  },
+  {
+    "case_id": "C025",
+    "marksheet": "sheets/C025.jpg",
+    "photo": "photos/C025.jpg",
+    "entered": {
+      "name": "Suresh Selvam",
+      "register_no": "2621163",
+      "marks": {
+        "Tamil": 90,
+        "English": 86,
+        "Mathematics": 78,
+        "Physics": 88,
+        "Chemistry": 60,
+        "Computer Science": 80
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 90,
+        "English": 86,
+        "Mathematics": 78,
+        "Physics": 88,
+        "Chemistry": 60,
+        "Computer Science": 80
+      },
+      "sheet_total": 482,
+      "layout": "B",
+      "degradation": "mild",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C026",
+    "marksheet": "sheets/C026.jpg",
+    "photo": "photos/C026.jpg",
+    "entered": {
+      "name": "Anitha Kumar",
+      "register_no": "2650376",
+      "marks": {
+        "Tamil": 77,
+        "English": 72,
+        "Mathematics": 43,
+        "Physics": 49,
+        "Chemistry": 64,
+        "Computer Science": 48
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 77,
+        "English": 72,
+        "Mathematics": 43,
+        "Physics": 49,
+        "Chemistry": 64,
+        "Computer Science": 48
+      },
+      "sheet_total": 353,
+      "layout": "B",
+      "degradation": "moderate",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C027",
+    "marksheet": "sheets/C027.jpg",
+    "photo": "photos/C027.jpg",
+    "entered": {
+      "name": "Lakshmi Babu",
+      "register_no": "2619577",
+      "marks": {
+        "Tamil": 98,
+        "English": 76,
+        "Mathematics": 46,
+        "Physics": 70,
+        "Chemistry": 42,
+        "Computer Science": 58
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 98,
+        "English": 76,
+        "Mathematics": 46,
+        "Physics": 70,
+        "Chemistry": 42,
+        "Computer Science": 58
+      },
+      "sheet_total": 390,
+      "layout": "B",
+      "degradation": "clean",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C028",
+    "marksheet": "sheets/C028.jpg",
+    "photo": "photos/C028.jpg",
+    "entered": {
+      "name": "Kavya Murugan",
+      "register_no": "2610976",
+      "marks": {
+        "Tamil": 63,
+        "English": 43,
+        "Mathematics": 68,
+        "Physics": 50,
+        "Chemistry": 93,
+        "Computer Science": 36
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 63,
+        "English": 43,
+        "Mathematics": 68,
+        "Physics": 50,
+        "Chemistry": 93,
+        "Computer Science": 36
+      },
+      "sheet_total": 353,
+      "layout": "C",
+      "degradation": "clean",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C029",
+    "marksheet": "sheets/C029.jpg",
+    "photo": "photos/C029.jpg",
+    "entered": {
+      "name": "Divya Kumar",
+      "register_no": "2669063",
+      "marks": {
+        "Tamil": 65,
+        "English": 49,
+        "Mathematics": 55,
+        "Physics": 68,
+        "Chemistry": 41,
+        "Computer Science": 58
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 65,
+        "Mathematics": 55,
+        "Physics": 68,
+        "Chemistry": 41,
+        "Computer Science": 58
+      },
+      "sheet_total": 287,
+      "layout": "C",
+      "degradation": "mild",
+      "sheet_scenario": "missing_subject",
+      "photo_scenario": "blurry",
+      "problems": [
+        "missing_subject:English",
+        "photo:blurry"
+      ]
+    }
+  },
+  {
+    "case_id": "C030",
+    "marksheet": "sheets/C030.jpg",
+    "photo": "photos/C030.jpg",
+    "entered": {
+      "name": "Suresh Murugan",
+      "register_no": "2645482",
+      "marks": {
+        "Tamil": 37,
+        "English": 67,
+        "Mathematics": 39,
+        "Physics": 36,
+        "Chemistry": 37,
+        "Computer Science": 99
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 37,
+        "English": 67,
+        "Mathematics": 39,
+        "Physics": 36,
+        "Computer Science": 99
+      },
+      "sheet_total": 278,
+      "layout": "B",
+      "degradation": "mild",
+      "sheet_scenario": "missing_subject",
+      "photo_scenario": "good",
+      "problems": [
+        "missing_subject:Chemistry"
+      ]
+    }
+  },
+  {
+    "case_id": "C031",
+    "marksheet": "sheets/C031.jpg",
+    "photo": "photos/C031.jpg",
+    "entered": {
+      "name": "Sanjay Lakshmanan",
+      "register_no": "2671553",
+      "marks": {
+        "Tamil": 85,
+        "English": 99,
+        "Mathematics": 74,
+        "Physics": 62,
+        "Chemistry": 64,
+        "Computer Science": 78
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 85,
+        "English": 99,
+        "Mathematics": 74,
+        "Physics": 62,
+        "Chemistry": 64,
+        "Computer Science": 78
+      },
+      "sheet_total": 462,
+      "layout": "C",
+      "degradation": "clean",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "landscape",
+      "problems": [
+        "photo:landscape"
+      ]
+    }
+  },
+  {
+    "case_id": "C032",
+    "marksheet": "sheets/C032.jpg",
+    "photo": "photos/C032.jpg",
+    "entered": {
+      "name": "Arun Devi",
+      "register_no": "2601868",
+      "marks": {
+        "Tamil": 44,
+        "English": 67,
+        "Mathematics": 90,
+        "Physics": 55,
+        "Chemistry": 42,
+        "Computer Science": 45
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 44,
+        "English": 67,
+        "Mathematics": 90,
+        "Physics": 55,
+        "Chemistry": 42,
+        "Computer Science": 45
+      },
+      "sheet_total": 358,
+      "layout": "B",
+      "degradation": "mild",
+      "sheet_scenario": "bad_total",
+      "photo_scenario": "good",
+      "problems": [
+        "bad_total"
+      ]
+    }
+  },
+  {
+    "case_id": "C033",
+    "marksheet": "sheets/C033.jpg",
+    "photo": "photos/C033.jpg",
+    "entered": {
+      "name": "Harish Kumar",
+      "register_no": "2660221",
+      "marks": {
+        "Tamil": 58,
+        "English": 55,
+        "Mathematics": 69,
+        "Physics": 92,
+        "Chemistry": 35,
+        "Computer Science": 68
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 58,
+        "English": 55,
+        "Mathematics": 69,
+        "Physics": 92,
+        "Chemistry": 35,
+        "Computer Science": 68
+      },
+      "sheet_total": 387,
+      "layout": "A",
+      "degradation": "hard",
+      "sheet_scenario": "bad_total",
+      "photo_scenario": "good",
+      "problems": [
+        "bad_total"
+      ]
+    }
+  },
+  {
+    "case_id": "C034",
+    "marksheet": "sheets/C034.jpg",
+    "photo": "photos/C034.jpg",
+    "entered": {
+      "name": "Gokul Devi",
+      "register_no": "2600140",
+      "marks": {
+        "Tamil": 77,
+        "English": 83,
+        "Mathematics": 45,
+        "Physics": 95,
+        "Chemistry": 70,
+        "Computer Science": 99
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 77,
+        "English": 83,
+        "Mathematics": 45,
+        "Physics": 95,
+        "Chemistry": 70,
+        "Computer Science": 99
+      },
+      "sheet_total": 469,
+      "layout": "A",
+      "degradation": "mild",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C035",
+    "marksheet": "sheets/C035.jpg",
+    "photo": "photos/C035.jpg",
+    "entered": {
+      "name": "Divya Babu",
+      "register_no": "2676913",
+      "marks": {
+        "Tamil": 40,
+        "English": 85,
+        "Mathematics": 37,
+        "Physics": 73,
+        "Chemistry": 73,
+        "Computer Science": 64
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 40,
+        "English": 85,
+        "Mathematics": 37,
+        "Physics": 73,
+        "Chemistry": 73,
+        "Computer Science": 64
+      },
+      "sheet_total": 372,
+      "layout": "A",
+      "degradation": "mild",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "good",
+      "problems": []
+    }
+  },
+  {
+    "case_id": "C036",
+    "marksheet": "sheets/C036.jpg",
+    "photo": "photos/C036.jpg",
+    "entered": {
+      "name": "Dinesh Devi",
+      "register_no": "2637247",
+      "marks": {
+        "Tamil": 53,
+        "English": 40,
+        "Mathematics": 89,
+        "Physics": 99,
+        "Chemistry": 52,
+        "Computer Science": 99
+      }
+    },
+    "truth": {
+      "sheet_marks": {
+        "Tamil": 53,
+        "English": 40,
+        "Mathematics": 89,
+        "Physics": 99,
+        "Chemistry": 52,
+        "Computer Science": 99
+      },
+      "sheet_total": 432,
+      "layout": "C",
+      "degradation": "mild",
+      "sheet_scenario": "clean_data",
+      "photo_scenario": "dark",
+      "problems": [
+        "photo:dark"
+      ]
+    }
+  }
+]

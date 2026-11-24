@@ -1,0 +1,8 @@
+opencv-python-headless>=4.8
+numpy
+Pillow
+pytesseract
+rapidfuzz
+pandas
+streamlit>=1.50
+pytest
