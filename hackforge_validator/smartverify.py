@@ -292,9 +292,10 @@ def student_portal(user):
 
         st.subheader("2. Document upload")
         u1, u2 = st.columns(2)
-        f_sheet = u1.file_uploader("Mark sheet (JPG or PNG)", type=["jpg", "jpeg", "png"], key="f_sheet",
+        up = ss.get("f_up", 0)
+        f_sheet = u1.file_uploader("Mark sheet (JPG or PNG)", type=["jpg", "jpeg", "png"], key=f"f_sheet_{up}",
                                    help="Whole sheet visible, in daylight, flat, all text readable.")
-        f_photo = u2.file_uploader("Profile photo (JPG or PNG)", type=["jpg", "jpeg", "png"], key="f_photo",
+        f_photo = u2.file_uploader("Profile photo (JPG or PNG)", type=["jpg", "jpeg", "png"], key=f"f_photo_{up}",
                                    help="Passport-style, portrait, plain background, bright and sharp.")
         agree = st.checkbox("I have read the guidelines. The details I entered match my documents, "
                             "and the documents are my own.", key="f_agree")
@@ -323,6 +324,8 @@ def student_portal(user):
                                                       sheet, photo, db.STATUS_FROM_OVERALL[rep.overall])
                     db.add_validation(app_id, ver, rep, ex)
                     stat.update(label="Verification complete", state="complete")
+                ss["f_init"] = (user["id"], ver)       # keep the form as the student typed it
+                ss["f_up"] = up + 1                     # empty the upload boxes for a possible resubmission
                 ss["last_report"] = rep.to_dict()
                 banner(rep.overall)
                 checks_table(rep.to_dict())
